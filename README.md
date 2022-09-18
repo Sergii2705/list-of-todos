@@ -5,6 +5,7 @@
 Used technologies:
 
 - REACT
+- REDUX
 - JS/TS
 - HTML
 - CSS/SCSS
