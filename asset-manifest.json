@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/list-of-todos/static/css/main.2bbfa82c.chunk.css",
+    "main.js": "/list-of-todos/static/js/main.8e555d79.chunk.js",
+    "main.js.map": "/list-of-todos/static/js/main.8e555d79.chunk.js.map",
+    "runtime-main.js": "/list-of-todos/static/js/runtime-main.6281bffc.js",
+    "runtime-main.js.map": "/list-of-todos/static/js/runtime-main.6281bffc.js.map",
+    "static/css/2.632bb806.chunk.css": "/list-of-todos/static/css/2.632bb806.chunk.css",
+    "static/js/2.d161cc94.chunk.js": "/list-of-todos/static/js/2.d161cc94.chunk.js",
+    "static/js/2.d161cc94.chunk.js.map": "/list-of-todos/static/js/2.d161cc94.chunk.js.map",
+    "index.html": "/list-of-todos/index.html",
+    "static/css/2.632bb806.chunk.css.map": "/list-of-todos/static/css/2.632bb806.chunk.css.map",
+    "static/css/main.2bbfa82c.chunk.css.map": "/list-of-todos/static/css/main.2bbfa82c.chunk.css.map",
+    "static/js/2.d161cc94.chunk.js.LICENSE.txt": "/list-of-todos/static/js/2.d161cc94.chunk.js.LICENSE.txt",
+    "static/media/all.css": "/list-of-todos/static/media/fa-v4compatibility.f601162a.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6281bffc.js",
+    "static/css/2.632bb806.chunk.css",
+    "static/js/2.d161cc94.chunk.js",
+    "static/css/main.2bbfa82c.chunk.css",
+    "static/js/main.8e555d79.chunk.js"
+  ]
+}
