@@ -1,6 +1,6 @@
-# React Todos App with API
+# React + Redux list of TODOs
 
-- [DEMO LINK](https://Sergii2705.github.io/react-todos-api/)
+- [DEMO LINK](https://Sergii2705.github.io/list-of-todos/)
 
 Used technologies:
 
